@@ -1,5 +1,3 @@
-'''html
-<!-- saved from url=(0046)http://merlot.usc.edu/cs531-s15/homeworks/hw5/ -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <title>Homework #5 - CSCI 531, Spring 2015</title>
 <link href="./Homework #5 - CSCI 531, Spring 2015_files/cs531bc.css" rel="stylesheet" type="text/css">
@@ -22,43 +20,6 @@
     </tr>
     </tbody></table>
     </td>
-    <!-- TD ALIGN=LEFT VALIGN=TOP WIDTH=13 -->
-    <!-- COL 2, should be identical to all other pages here -->
-        <!-- IMG SRC="images/spacer.gif" HEIGHT=1 WIDTH=13 -->
-    <!-- /TD -->
-    <td align="LEFT" valign="TOP">
-    <!-- COL 3, every page should be different -->
-        <br><table border="0">
-        <!-- Page Header -->
-        <tbody><tr><td align="LEFT" valigh="TOP">
-                <a href="http://merlot.usc.edu/cs531-s15/">Spring 2015</a><a>
-            </a></td>
-            <td align="RIGHT" valigh="TOP">
-                <a href="http://merlot.usc.edu/cs531-s15/">CSCI 531</a><br>
-            </td>
-        </tr>
-        
-        <!-- Page Title -->
-        <tr><td colspan="3" align="CENTER">
-                <h2>Homework #5</h2>
-                <h4>(100 points total)</h4>
-                <h2>DES</h2>
-                <b><i>Due 11:45PM
-                3/27/2015 (firm)</i></b>
-                <!--
-                <H3><FONT COLOR="red"><I>(Under Construction -
-                    Anything Can Change without Notice)</I></FONT></H3>
-                  -->
-            </td>
-        </tr>
-        <tr><td>&nbsp;</td></tr>
-        <!-- Section -->
-        <tr><td colspan="3" align="LEFT" bgcolor="#000000" width="100%">
-                <font color="#ffffff"><a name="intro"><b>Assignment</b></a></font>
-            </td>
-        </tr>
-        <!-- Top Section -->
-        <tr><td colspan="3" align="LEFT">
 The purpose of this assignment is to get you familiar with
 DES by implementing DES from scratch with the flexibility
 of changing some of the internal tables.  For this assignment,
@@ -659,4 +620,3 @@ and information on the <a href="http://merlot.usc.edu/cs531-s15/bsubmit.html">bs
 
 
 </body></html>
-'''
