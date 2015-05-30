@@ -19,32 +19,7 @@
         </td>
     </tr>
     </tbody></table>
-    </td>
-
-    <td align="LEFT" valign="TOP">
-      <br><table border="0">
-        <tbody><tr><td align="LEFT" valigh="TOP">
-                <a href="http://merlot.usc.edu/cs531-s15/">Spring 2015</a><a>
-            </a></td>
-            <td align="RIGHT" valigh="TOP">
-                <a href="http://merlot.usc.edu/cs531-s15/">CSCI 531</a><br>
-            </td>
-        </tr>
-        
-        <tr><td colspan="3" align="CENTER">
-                <h2>Homework #5</h2>
-                <h4>(100 points total)</h4>
-                <h2>DES</h2>
-                <b><i>Due 11:45PM
-                3/27/2015 (firm)</i></b>
-                <!--
-                <H3><FONT COLOR="red"><I>(Under Construction -
-                    Anything Can Change without Notice)</I></FONT></H3>
-                  -->
-            </td>
-        </tr>
-        <tr><td>&nbsp;</td></tr>
-        <tr><td colspan="3" align="LEFT">
+    
 The purpose of this assignment is to get you familiar with
 DES by implementing DES from scratch with the flexibility
 of changing some of the internal tables.  For this assignment,
