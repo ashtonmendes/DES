@@ -8,16 +8,16 @@ The purpose of this assignment is to get familiar with
 DES by implementing DES from scratch with the flexibility
 of changing some of the internal tables.
 
-        </tr>
-        <tr><td>&nbsp;</td></tr>
-        <!-- Section -->
-        <tr><td colspan="3" align="LEFT" bgcolor="#000000" width="100%">
-                <font color="#ffffff"><a name="compile"><b>Compiling</b></a></font>
-            </td>
-        </tr>
-        <!-- Top Section -->
-        <tr><td colspan="3" align="LEFT">
-    <pre>    make hw5</pre>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<!-- Section -->
+<tr><td colspan="3" align="LEFT" bgcolor="#000000" width="100%">
+        <font color="#ffffff"><a name="compile"><b>Compiling</b></a></font>
+    </td>
+</tr>
+<!-- Top Section -->
+<tr><td colspan="3" align="LEFT">
+<pre>    make hw5</pre>
 an executable named <b>hw5</b> is created.
 
             </td>
