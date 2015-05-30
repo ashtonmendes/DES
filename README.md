@@ -4,40 +4,10 @@
 <link rev="made" href="mailto:bill.cheng@acm.org"><style type="text/css"></style></head>
 <body bgcolor="#FFFFFF" link="#D02090" vlink="#996600" alink="#990000">
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td align="CENTER" valign="TOP" width="112">
-    <!-- COL 1, should be identical to all other pages here -->
-    <table border="0" cellpadding="0" cellspacing="0" width="113">
-    <tbody><tr><td align="CENTER" valign="TOP" width="112">
-        &nbsp;
-        </td>
-    </tr>
-    <tr><td align="CENTER" valign="TOP" width="112">
-        <a href="http://www.cs.usc.edu/"><img src="./Homework #5 - CSCI 531, Spring 2015_files/usctommy.gif" alt="USC CSD Home" border="0"></a>
-        <!-- BR>&nbsp;<BR -->
-        <!-- IMG SRC="images/small-uc.gif" BORDER=0 -->
-        </td>
-    </tr>
-    </tbody></table>
-    
-The purpose of this assignment is to get you familiar with
+The purpose of this assignment is to get familiar with
 DES by implementing DES from scratch with the flexibility
-of changing some of the internal tables.  For this assignment,
-you are <b>not</b> allowed to use publicly available DES-specific
-code (generic public code for parsing input data is allowed).
+of changing some of the internal tables.
 
-<p>
-
-Please see the
-<a href="http://merlot.usc.edu/cs531-s15/lectures.html#tentative">lecture slides on DES</a> or section
-7.4 on pages 250-256 of the
-<a href="http://www.cacr.math.uwaterloo.ca/hac/">
-textbook (Handbook of Applied Cryptography)</a> (in Chapter 7).
-
-</p><p>
-
-<a href="http://merlot.usc.edu/cs531-s15/homeworks/hw5/#submit">Electronic submissions</a> only.
-            </p></td>
         </tr>
         <tr><td>&nbsp;</td></tr>
         <!-- Section -->
@@ -47,13 +17,9 @@ textbook (Handbook of Applied Cryptography)</a> (in Chapter 7).
         </tr>
         <!-- Top Section -->
         <tr><td colspan="3" align="LEFT">
-Please use a <tt>Makefile</tt> so that when the grader simply enters:
     <pre>    make hw5</pre>
 an executable named <b>hw5</b> is created.
-(Minor variation on the <tt>make</tt> command is allowed.)
-Please make sure that your submission conforms to
-<a href="http://merlot.usc.edu/cs531-s15/makefile.html#requirements">other
-general compilation requirements</a>.
+
             </td>
         </tr>
         <tr><td>&nbsp;</td></tr>
